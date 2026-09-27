@@ -1,0 +1,57 @@
+# 🏥 Hospital Analytics Dashboard
+
+## 📌 Project Overview
+
+An interactive Hospital Analytics Dashboard built using SQL and Microsoft Power BI to analyze hospital admissions, patient demographics, readmissions, treatment costs, diagnoses, procedures, and clinical outcomes.
+
+## 🛠️ Tools & Technologies
+
+- SQL
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Visualization
+- Data Cleaning & Transformation
+
+## 📊 PowerBi Reports
+
+### 1. Hospital Overview Analysis
+- Total Admissions
+- Average Stay Length
+- Treatment Cost Analysis
+- Hospital-wise Admissions
+- Treatment Cost by Tier
+- Government Subsidy vs Out-of-Pocket Cost
+
+### 2. Patient & Readmission Analysis
+- Total Patients
+- Average Patient Age
+- 30-Day Readmission Rate
+- Insurance Cost Analysis
+- Readmission Rate by Age
+- Patient Distribution by Discharge Type
+
+### 3. Clinical & Treatment Analysis
+- Total Procedures
+- Total Diagnoses
+- Average Comorbidity Count
+- Average Haemoglobin
+- Procedures by Ward Type
+- Diagnosis Category Analysis
+- Length of Stay Analysis
+
+## 🔍 Key Features
+
+- Interactive slicers
+- KPI cards
+- Drill-down analysis
+- DAX measures
+- SQL-based data analysis
+- Interactive Power BI visualizations
+- Healthcare-focused analytical insights
+
+This project provided hands-on experience in SQL, data cleaning, data transformation, DAX, and interactive data visualization using Power BI. I analyzed hospital admissions, patient demographics, readmissions, treatment costs, diagnoses, procedures and clinical metrics to derive meaningful insights.
+
+Finally, I published the Power BI report to Power BI Service and built an interactive dashboard, making the analysis accessible through an interactive and user-friendly platform.
+
+Sahithi Kotra
