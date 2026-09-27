@@ -212,6 +212,14 @@ The dashboard can help stakeholders explore questions such as:
 - How do government subsidies compare with out-of-pocket expenses?
 - How do admission types vary across diagnosis ranks?
 
+Conclusion
+
+This project demonstrates an end-to-end Hospital Analytics solution using SQL and Power BI. SQL was used to query, analyze, and derive insights from the relational healthcare data, while Power BI was used to transform the data into an interactive analytical report.
+
+The final 3-page Power BI report covers hospital operations, patient and readmission analysis, and clinical/treatment insights. Key KPIs and interactive visualizations help analyze admissions, treatment costs, patient demographics, readmissions, procedures, diagnoses, insurance, and length of stay.
+
+The completed report was published to Power BI Service, where an interactive dashboard was created to provide a consolidated view of important hospital KPIs and insights.
+
 👩‍💻 Author:
 
 Sahithi Kotra
